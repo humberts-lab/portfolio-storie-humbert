@@ -1,14 +1,24 @@
-# Week 1 – Introduction to Security Awareness
+# CYBR-1100 • Week #1 • Introduction to Cybersecurity
  
-**Description:**  
-What was covered this week? Summarize key ideas in 2–3 sentences.  
+**Student:** Storie Humbert  
+**Date:** 2025-08-20
  
-**Artifacts:**  
-- Screenshot of MFA setup  
-- Screenshot of GitHub Pages live site  
+## Purpose
+1–2 sentences on what this artifact demonstrates.
  
-**Reflection:**  
-Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
+## Evidence
+- Link(s) to files/screenshots (hosted in your repo).  
+- Note: Redact any sensitive info before publishing.
  
-**AI Use Note:**  
-If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
+## What I did
+3–6 bullets summarizing your steps or decisions.
+ 
+## Reflection
+4–6 sentences on what you learned and what you’d improve next time.
+ 
+## References
+- Ciampa, M. (2022). *Security awareness* (6e). Cengage. (Ch. X)  
+- OER: Phishing Red Flags (Course Resources)
+ 
+---
+*AI Use Note (if used): I used Sage (ChatGPT) to outline this page and reviewed clarity. I wrote the final content myself.*
