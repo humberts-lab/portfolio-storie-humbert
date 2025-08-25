@@ -1,4 +1,4 @@
-**Summary:**
+**Summary:** What I've learned about personal cyber risks and defenses so far is that personal cyber risks are the dangers that everyone who uses anything connected to the internet faces. Like hackers who steal passwords, create viruses for people to download, or fall for scams. These risks can cause people to lose their accounts, information, or identity. To defend against these risks are people create strong passwords and use two-factor authentication to keep their information safe. We keep our devices updated at all times and avoid clicking on strange links. By following these steps, everyone can stay safe and protect their information.
 
 
 **Artifacts:**
@@ -10,4 +10,4 @@ Case File: https://hockingcollege-my.sharepoint.com/:w:/g/personal/humberts_hock
 
 Lab Project: https://hockingcollege-my.sharepoint.com/:w:/g/personal/humberts_hocking_edu/EdH0VCmr2qNDpRJMAMVDcpMBtNvSKdz-aKhsweIIsiMgpA?e=SE5zGT
 
-**Reflection:**
+**Reflection:** Knowing now how easy it is to get your password hacked, I will make sure to use two-factor authentication on any website I can. Update my devices as soon as possible and make my passwords more complex.
