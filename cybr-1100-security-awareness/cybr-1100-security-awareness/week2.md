@@ -10,4 +10,4 @@ Case File: https://hockingcollege-my.sharepoint.com/:w:/g/personal/humberts_hock
 
 Lab Project: https://hockingcollege-my.sharepoint.com/:w:/g/personal/humberts_hocking_edu/EdH0VCmr2qNDpRJMAMVDcpMBtNvSKdz-aKhsweIIsiMgpA?e=SE5zGT
 
-**Reflection:** Knowing now how easy it is to get your password hacked, I will make sure to use two-factor authentication on any website I can. Update my devices as soon as possible and make my passwords more complex.
+**Reflection:** Knowing now how easy it is to get your password hacked, I will make sure to use two-factor authentication on any website I can. Update my devices as soon as possible and make my passwords more complex. Knowing that any device connected to the internet, especially the same WIFI, I will make sure that I am on a protected wifi before joining it, and won't click any suspicious links offering any type of reward.
