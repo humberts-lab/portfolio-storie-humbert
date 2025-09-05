@@ -1,4 +1,4 @@
-**What is a Star Topology?** A star topology is the configuration of a network in the shape of a star in which each device is connected to a central node called a hub.
+**What is a Star Topology?** A star topology is the configuration of a network in the shape of a star in which each device is connected to a central node called a hub, switch, etc.
 
 
 
