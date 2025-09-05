@@ -3,7 +3,10 @@
 **What devices are included in a star topology?** An end device like a pc, laptop, etc., and a switch connecting them by using copper through cables.
 
 **My steps:**
-1. Got out
+1. Got out 6 PCs
+2. Configured the PCs around the switch placed in the middle
+3. Changed the IP Addresses using 192.168.1.1, changing the last number for each 6
+4. Tested connectivity
 
 
 
